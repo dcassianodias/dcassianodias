@@ -11,15 +11,12 @@ Gosto de desafios e de construir soluções eficientes e escaláveis, focadas na
 - **Outros:** APIs REST, Banco de Dados, Arquitetura de Microservices  
 
 ## 📫 Como me encontrar?
-- 💼 [LinkedIn]([https://www.linkedin.com/in/seu-linkedin-aqui](https://www.linkedin.com/in/danilo-dias-063332199/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui)  
 - 🔧 [GitHub](https://github.com/seu-usuario-aqui)  
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dcassianodias/dcassianodias/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dcassianodias/dcassianodias/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dcassianodias/dcassianodias/output/github-contribution-grid-snake.svg">
-</picture>
+## 🐍 Snake Game (Contribuições)
+![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
 
 Sempre aberto para trocar ideias e colaborar em projetos! 🚀  
