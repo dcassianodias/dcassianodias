@@ -16,6 +16,9 @@ Gosto de desafios e de construir soluções eficientes e escaláveis, focadas na
 
 ---
 
-![snake gif](https://github.com/dcassianodias/dcassianodias/blob/output/github-snake-dark.svg)
+<div align="center">
+  
+  ![snake gif](https://github.com/dcassianodias/dcassianodias/blob/output/github-snake-dark.svg)  
+</div>
 
 Sempre aberto para trocar ideias e colaborar em projetos! 🚀  
