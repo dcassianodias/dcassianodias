@@ -11,8 +11,8 @@ Gosto de desafios e de construir soluções eficientes e escaláveis, focadas na
 - **Outros:** APIs REST, Banco de Dados, Arquitetura de Microservices  
 
 ## 📫 Como me encontrar?
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui)  
-- 🔧 [GitHub](https://github.com/seu-usuario-aqui)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/danilo-dias-063332199/)  
+- 🔧 [GitHub](https://github.com/dcassianodias)  
 
 ---
 
