@@ -17,6 +17,6 @@ Gosto de desafios e de construir soluções eficientes e escaláveis, focadas na
 ---
 
 ## 🐍 Snake Game (Contribuições)
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/<dcassianodias>/<dcassianodias>/blob/output/github-contribution-grid-snake2.svg)
 
 Sempre aberto para trocar ideias e colaborar em projetos! 🚀  
