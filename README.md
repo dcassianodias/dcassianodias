@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou Danilo Cassiano Dias! 
 
-<!--
-**dcassianodias/dcassianodias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre mim
+Sou desenvolvedor de aplicações na **IBM**, apaixonado por tecnologia e sempre buscando aprimorar minhas habilidades. Trabalho principalmente com **Java**, **Spring Boot**, **Angular**, **HTML**, **CSS** e **JavaScript**.
 
-Here are some ideas to get you started:
+Gosto de desafios e de construir soluções eficientes e escaláveis, focadas na melhor experiência para o usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas
+- **Back-end:** Java, Spring Boot  
+- **Front-end:** Angular, JavaScript, HTML, CSS  
+- **Outros:** APIs REST, Banco de Dados, Arquitetura de Microservices  
+
+## 📫 Como me encontrar?
+- 💼 [LinkedIn]([https://www.linkedin.com/in/seu-linkedin-aqui](https://www.linkedin.com/in/danilo-dias-063332199/)  
+- 🔧 [GitHub](https://github.com/seu-usuario-aqui)  
+
+---
+
+## 🐍 Snake Game (Contribuições)
+![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+
+Sempre aberto para trocar ideias e colaborar em projetos! 🚀  
