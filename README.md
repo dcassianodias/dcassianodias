@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Danilo Cassiano Dias! 
 
 ## 💻 Sobre mim
-Sou desenvolvedor de aplicações na **IBM**, apaixonado por tecnologia e sempre buscando aprimorar minhas habilidades. Trabalho principalmente com **Java**, **Spring Boot**, **Angular**, **HTML**, **CSS** e **JavaScript**.
+Sou Engenheiro de Software, apaixonado por tecnologia e sempre buscando aprimorar minhas habilidades. Trabalho principalmente com **Java**, **Spring Boot**, **Angular**, **HTML**, **CSS** e **JavaScript**.
 
 Gosto de desafios e de construir soluções eficientes e escaláveis, focadas na melhor experiência para o usuário.
 
